@@ -1,0 +1,11 @@
+.container{
+    padding: 40px 0;
+    text-align: start;
+}
+.grid{
+    display: flex !important;
+    justify-content: center !important;
+}
+.item{
+    min-width: 200px !important;
+}
